@@ -3,10 +3,10 @@
 * _strlen - length of a string
 * @s: string
 * Return: length
-*/
+**/
 int _strlen(char *s)
 {
-	int lengthi = 0;
+	int length = 0;
 
 	while (*s != '\0')
 	{
