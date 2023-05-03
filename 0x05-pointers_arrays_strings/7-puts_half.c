@@ -1,7 +1,7 @@
 #include "main.h"
 /**
-* puts_half - function that prints half of a string
-* if length is odd,the function should print
+* puts_half -  function that prints half of a string
+* if length is odd print n
 * n = (length_of_the_string - 1) / 2
 * @str: input
 * Return: half of input
