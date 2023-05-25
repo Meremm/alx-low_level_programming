@@ -8,7 +8,7 @@
  * @separator: The string to be printed between strings.
  *
  * @n: The number of strings passed to the function.
- * 
+ *
  * @..: A variable number of strings to be printed.
  *
  *  If separator is NULL, it is not printed.
